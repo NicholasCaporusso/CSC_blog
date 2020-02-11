@@ -1,7 +1,7 @@
 <?php
 require_once('json.php');
 $posts=readJSON('blog.json');
-
+// add template
 ?>
 <html>
 <body>
